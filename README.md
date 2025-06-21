@@ -173,3 +173,22 @@ Identifying design properties (like color styles and typography) in a mockup is 
 Understanding and applying these properties helps bring the mockup to life exactly as intended—enhancing both aesthetic appeal and usability.
 
 ---
+## 👥 Project Roles and Responsibilities
+
+Successful project delivery relies on collaboration across clearly defined roles. Below is an overview of the team roles involved in the Airbnb Clone project and their key responsibilities.
+
+| Role                | Responsibilities                                                                                           | Contribution to Success                                                                 |
+|---------------------|------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
+| **Project Manager** | - Plan project timeline and deliverables<br>- Coordinate tasks and resources<br>- Communicate with stakeholders | Ensures the project stays on track, within scope, and meets deadlines                   |
+| **Frontend Developers** | - Build user interfaces using React and Tailwind CSS<br>- Implement responsive and interactive features<br>- Integrate APIs with UI | Create intuitive, performant, and accessible user experiences                           |
+| **Backend Developers** | - Develop RESTful APIs using Node.js/Express<br>- Manage authentication, authorization, and database logic<br>- Ensure data security and integrity | Power core functionalities like bookings, listings, and user management                 |
+| **UI/UX Designers** | - Design mockups and wireframes in Figma<br>- Define color schemes, layout, and typography<br>- Ensure a consistent, user-friendly design | Shape the look and feel of the platform for a smooth and enjoyable user experience      |
+| **QA/Testers**      | - Write and execute test cases (manual/automated)<br>- Identify and report bugs<br>- Ensure performance, compatibility, and usability | Maintain software quality and reduce user-facing issues                                 |
+| **DevOps Engineers**| - Manage CI/CD pipelines<br>- Automate deployment and monitoring<br>- Handle infrastructure and server scaling | Ensure the app runs reliably in production and can scale efficiently                    |
+| **Product Owner**   | - Define the product vision and roadmap<br>- Prioritize features and user stories<br>- Collect feedback and represent the end user | Guides development based on user needs and business goals                               |
+| **Scrum Master**    | - Facilitate agile ceremonies (standups, sprint planning, retrospectives)<br>- Remove blockers for the team<br>- Coach team on agile best practices | Keeps the team organized, agile, and continuously improving                             |
+
+---
+
+Each of these roles plays a critical part in delivering a robust, user-friendly, and maintainable Airbnb clone. Effective collaboration among these roles leads to faster delivery, fewer bugs, and better user satisfaction.
+
