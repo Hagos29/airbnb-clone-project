@@ -192,3 +192,27 @@ Successful project delivery relies on collaboration across clearly defined roles
 
 Each of these roles plays a critical part in delivering a robust, user-friendly, and maintainable Airbnb clone. Effective collaboration among these roles leads to faster delivery, fewer bugs, and better user satisfaction.
 
+## 🧩 UI Component Patterns
+
+As part of building a scalable and maintainable Airbnb Clone, we will develop reusable UI components. These components are designed to follow consistent styling, behavior, and accessibility patterns across the application.
+
+### 🔧 Planned Components
+
+| Component Name   | Description                                                                 |
+|------------------|-----------------------------------------------------------------------------|
+| **Navbar**        | Displays site branding, search input, navigation links, and user profile menu. Responsive for mobile/desktop views. |
+| **Property Card** | Reusable card component to display individual listings with images, title, price, rating, and location. Used in listing view pages. |
+| **Footer**        | Contains site links, contact information, social media icons, and terms/privacy links. Styled consistently across all pages. |
+| **Search Bar**    | Interactive input with location autocomplete, date selection, and guest count. Designed for filtering properties. |
+| **Booking Calendar** | Allows users to pick check-in/check-out dates. Integrated with listing availability and checkout system. |
+| **Button**        | Reusable button component with variants for primary, secondary, and outline. Includes loading states and disabled styles. |
+| **Modal**         | Used for login/signup forms, confirmation prompts, and image previews. Accessible and reusable across different contexts. |
+| **Form Inputs**   | Styled input fields, dropdowns, checkboxes, and text areas with validation states and helper text. |
+| **Listing Detail Section** | Organized layout that presents host info, amenities, reviews, pricing, and booking form. Modular and responsive. |
+| **Toast/Alert**   | Non-blocking notifications for actions like successful bookings, login errors, or server messages. |
+
+---
+
+These components will be developed using **React.js** and styled with **Tailwind CSS**. We’ll follow atomic design principles, ensuring that components are modular, testable, and easy to maintain.
+
+Let me know if you want a visual preview or a Figma-to-code mapping table for these components!
