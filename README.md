@@ -130,3 +130,46 @@ A well-designed, user-friendly booking system ensures that:
 In competitive marketplaces like vacation rentals, **user experience directly impacts revenue and user retention**. A clean, intuitive design is not just aesthetic—it's strategic.
 
 ---
+
+### 🎨 Design Properties from Figma
+
+After exploring the Figma environment, we identified the following **color styles** and **typographic properties** used in the mockup design. These are essential for maintaining a consistent look and feel throughout the Airbnb Clone.
+
+#### 🎨 Color Styles
+
+| Name            | Hex Code    | Usage Example                       |
+|-----------------|-------------|-------------------------------------|
+| Primary         | #FF385C     | Buttons, links, highlights          |
+| Secondary       | #717171     | Subtext, secondary actions          |
+| Background      | #FFFFFF     | Page background                     |
+| Accent Gray     | #F7F7F7     | Input fields, section backgrounds   |
+| Text Dark       | #222222     | Main text color                     |
+| Success Green   | #008489     | Confirmation states, active states  |
+| Warning Yellow  | #FFB400     | Warnings, attention areas           |
+| Error Red       | #D93900     | Error messages                      |
+
+#### ✍️ Typography
+
+| Element         | Font Family     | Font Weight | Font Size | Usage                              |
+|----------------|------------------|-------------|-----------|-------------------------------------|
+| Headings       | Inter / Poppins  | 600–700     | 24–32px   | Section titles, card headers        |
+| Subheadings    | Inter / Poppins  | 500         | 18–20px   | Property type, price, host details  |
+| Body Text      | Inter / Roboto   | 400         | 14–16px   | General content, descriptions       |
+| Buttons        | Inter / Poppins  | 600         | 14–16px   | CTA buttons, filters                |
+| Captions       | Inter / Roboto   | 400         | 12px      | Labels, tooltips, placeholders      |
+
+---
+
+### 🧠 Why Design Properties Matter in UI/UX
+
+Identifying design properties (like color styles and typography) in a mockup is crucial for several reasons:
+
+- ✅ **Consistency**: Ensures a unified visual identity across all pages and components.
+- 🛠 **Efficiency**: Developers and designers can work faster using defined styles instead of improvising.
+- 🧩 **Reusability**: Design tokens and styles can be reused in multiple components, improving scalability.
+- 🧑‍💻 **Developer Handoff**: Makes collaboration between designers and developers smoother and more accurate.
+- ♿ **Accessibility**: Choosing the right color contrast and font sizing improves readability for all users.
+
+Understanding and applying these properties helps bring the mockup to life exactly as intended—enhancing both aesthetic appeal and usability.
+
+---
